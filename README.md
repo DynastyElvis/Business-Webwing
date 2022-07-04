@@ -1,4 +1,6 @@
-# PIZZA-Palace
+# Business-Webwing
+WE HAVE A PROFESSIONAL TEAM OF BUSINESS ANALYSTS.
+
 [KIPKEMOI RONO ELVIS](https://github.com/DynastyElvis)
 
 
@@ -29,21 +31,21 @@
 
 
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 ## Description
 A Web application where customers order different sizes of pizzas with one or more toppings. 
 
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Screenshot
-<img src="https://github.com/DynastyElvis/PIZZA-Palace/blob/main/Screenshot%20from%202022-03-21%2010-51-07.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Business-Webwing/blob/master/screenshots/Screenshot%20from%202022-07-04%2017-29-24.png" width="800px" height="400px">
 
 [LIVE LINK >>](https://dynastyelvis.github.io/PIZZA-Palace/)
 
 
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Installation
 * Open Terminal {Ctrl+Alt+T}
@@ -57,7 +59,7 @@ A Web application where customers order different sizes of pizzas with one or mo
 * To access the site, open your browser and put in the link URL.
 
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Installation Requirements
 
@@ -67,7 +69,7 @@ A Web application where customers order different sizes of pizzas with one or mo
 
 * Updated version of your browser
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
@@ -76,7 +78,7 @@ A Web application where customers order different sizes of pizzas with one or mo
 
 * Javascript - Adding interactive behavior to web pages.
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w
@@ -89,7 +91,7 @@ https://materializecss.com/
 
 https://www.codegrepper.com/app/index.php
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Licence
 
@@ -97,13 +99,13 @@ https://www.codegrepper.com/app/index.php
 
 2022
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Known Bugs
 
 No Known Bugs.
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
 ## Authors Info
 LinkedIn - [KIPKEMOI ELVIS RONO](https://www.linkedin.com/in/elvis-rono-aa3548209/)
@@ -112,5 +114,5 @@ kipkemoi.rono@student.moringaschool.com
 
 kipkemoilvs@gmail.com
 
-[Go Back to the top](#PIZZA-Palace)
+[Go Back to the top](#Business-Webwing)
 
