@@ -38,10 +38,16 @@ A Web application where customers order different sizes of pizzas with one or mo
 
 [Go Back to the top](#Business-Webwing)
 
-## Screenshot
+## Homepage
 <img src="https://github.com/DynastyElvis/Business-Webwing/blob/master/screenshots/Screenshot%20from%202022-07-04%2017-29-24.png" width="800px" height="400px">
 
-[LIVE LINK >>](https://dynastyelvis.github.io/PIZZA-Palace/)
+## Carousel
+<img src="https://github.com/DynastyElvis/Business-Webwing/blob/master/screenshots/Screenshot%20from%202022-07-04%2017-29-38.png" width="800px" height="400px">
+
+## Services
+<img src="https://github.com/DynastyElvis/Business-Webwing/blob/master/screenshots/Screenshot%20from%202022-07-04%2017-30-04.png" width="800px" height="400px">
+
+[LIVE LINK >>](http://business-webwing.vercel.app/)
 
 
 
