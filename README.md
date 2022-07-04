@@ -56,9 +56,9 @@ A Web application where customers order different sizes of pizzas with one or mo
 ## Installation
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/DynastyElvis/PIZZA-Palace```
+* git clone ```https://github.com/DynastyElvis/Business-Webwing```
 
-* cd ```PIZZA Palace```
+* cd ```Business-Webwing```
 
 * code . or atom . based on the text editor you have.
 
